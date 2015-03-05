@@ -9,7 +9,7 @@ A example load images on android
 > * 图片加载完成显示带动画效果（现在只实现了简单的渐变透明度的效果）
 > * 优化图片显示效率（只加载当前界面内图片，使用对scroll监听方式实现），这个还没有实现
 
-#
+#截图
 
 [](https://github.com/chourentang/GoImageLoader/blob/master/images/Screenshot_2015-03-05-11-16-19.jpeg)
 [](https://github.com/chourentang/GoImageLoader/blob/master/images/Screenshot_2015-03-05-11-16-28.jpeg)
