@@ -11,7 +11,7 @@ A example load images on android
 
 #截图
 
-[](https://github.com/chourentang/GoImageLoader/blob/master/images/Screenshot_2015-03-05-11-16-19.jpeg)
-[](https://github.com/chourentang/GoImageLoader/blob/master/images/Screenshot_2015-03-05-11-16-28.jpeg)
-[](https://github.com/chourentang/GoImageLoader/blob/master/images/Screenshot_2015-03-05-11-16-42.jpeg)
+![](https://github.com/chourentang/GoImageLoader/blob/master/images/Screenshot_2015-03-05-11-16-19.jpeg)
+![](https://github.com/chourentang/GoImageLoader/blob/master/images/Screenshot_2015-03-05-11-16-28.jpeg)
+![](https://github.com/chourentang/GoImageLoader/blob/master/images/Screenshot_2015-03-05-11-16-42.jpeg)
 
